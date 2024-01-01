@@ -1,6 +1,5 @@
 # Portfolio-Resume-Website
 
-# Portfolio Resume Website
 
 This repository contains a Portfolio Resume Website built using Python, Django, HTML, CSS, and Bootstrap. It provides a platform to showcase your portfolio and resume in an interactive and professional manner.
 
@@ -58,10 +57,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - The website template and design were inspired by various online resources and personal creativity.
-
-## Feedback and Contributions
-
-If you have any feedback, suggestions, or would like to contribute to this project, please feel free to open an issue or submit a pull request. Your contributions are greatly appreciated!
 
 ---
 
