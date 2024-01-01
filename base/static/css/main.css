@@ -2,6 +2,7 @@ body{
 
     background-color: #f8f8f8!important;
     text-align: center;
+    border: 5px solid;
     
 }
 
@@ -12,18 +13,14 @@ body{
 }
 
 #profile-pic{
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
-    margin-left: auto;
+    margin-left: -21px;
     margin-right: auto;
 }
 
-h1{
-    color: #0c417c;
-    text-align: center;
-    padding-top: 20px;
-}
+
 
 /* ul{
     padding: 0;
@@ -46,6 +43,12 @@ h1{
 
 
 .year {
-    margin-left: 435px;
+    margin-left: 310px;
     
   }
+
+  .card3{
+    margin-block: -2px;
+  }
+
+  
