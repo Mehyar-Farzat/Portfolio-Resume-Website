@@ -1,6 +1,9 @@
 # Portfolio-Resume-Website
 
 
+![image](https://github.com/Mehyar-Farzat/Portfolio-Resume-Website/assets/124469846/8bd35451-0ff6-4af8-8881-a9e754837353)
+
+
 This repository contains a Portfolio Resume Website built using Python, Django, HTML, CSS, and Bootstrap. It provides a platform to showcase your portfolio and resume in an interactive and professional manner.
 
 ## Features
