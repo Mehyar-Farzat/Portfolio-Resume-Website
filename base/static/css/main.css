@@ -1,6 +1,7 @@
 body{
 
     background-color: #f8f8f8!important;
+    text-align: center;
     
 }
 
@@ -41,3 +42,10 @@ h1{
     
     padding-top: 10px;
 }
+
+
+
+.year {
+    margin-left: 435px;
+    
+  }
